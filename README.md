@@ -62,3 +62,4 @@ Para os ícones, é recomendada a utilização de uma biblioteca, como o Font Aw
 
 ## Créditos
 Desafio criado originalmente por <a href="https://github.com/Lorenalgm">Lorena</a> :)
+
